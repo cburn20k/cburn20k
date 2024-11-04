@@ -6,7 +6,6 @@
   - [Learning Python in 100 Days!](https://github.com/cburn20k/NAATM)
 - <b>OverTheWire Banit CTF Walkthrough(Current Level :7)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>PowerShell</b>
   
 
 <h2> 🤳 Connect with me:</h2>
